@@ -1,0 +1,17 @@
+# --- Python bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# --- IDEs and editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Output and logs ---
+output/
+*.log
+*.out
+*.tmp
