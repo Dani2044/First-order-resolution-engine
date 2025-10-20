@@ -67,11 +67,13 @@ Resultado final: VERDADERO (contradicción encontrada)
 │   └── curiosidad.txt      # Another test file
 ├── output/
 │   ├── fnc.txt             # CNF conversion result
-│   ├── read.txt            # Parsing and structure output
-│   └── inference.txt       # Resolution steps and results
-├── fnc.py                  # CNF transformation logic
-├── inference.py            # Resolution and unification engine
-├── read.py                 # Formula and term parser
+│   ├── inference.txt       # Resolution steps and results
+│   └── read.txt            # Parsing and structure output
+├── source/
+│   ├── fnc.py              # CNF transformation logic
+│   ├── inference.py        # Resolution and unification engine
+│   └── read.py             # Formula and term parser
+├── .gitignore              # Ignore files
 ├── main.py                 # Main pipeline and file handling
 └── README.md
 ```

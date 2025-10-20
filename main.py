@@ -1,9 +1,9 @@
 import os
 import sys
 
-from read import read_formulas_from_file, parse_formulas
-from fnc import FNCConverter, print_detailed_structure
-from inference import Clause, Literal, Term, perform_inference
+from source.read import read_formulas_from_file, parse_formulas
+from source.fnc import FNCConverter, print_detailed_structure
+from source.inference import Clause, Literal, perform_inference
 
 def convert_and_save(input_path, fnc_out_path, read_out_path):
     txt = read_formulas_from_file(input_path)
