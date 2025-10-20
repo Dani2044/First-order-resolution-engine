@@ -1,2 +1,0 @@
-¬Planeta(x1) ∨ Esferico(x1)
-Planeta(Tierra)
