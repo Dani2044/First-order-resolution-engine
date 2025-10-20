@@ -1,5 +1,5 @@
 # fnc.py
-from read import Term, Literal, Formula
+from source.read import Term, Literal, Formula
 
 class FNCConverter:
     def __init__(self):

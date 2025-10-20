@@ -1,4 +1,4 @@
-from read import Term, Literal
+from source.read import Term, Literal
 
 # ---------- Helpers de normalización ----------
 def term_key(t):
