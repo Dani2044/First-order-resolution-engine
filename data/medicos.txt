@@ -1,0 +1,4 @@
+∀x (Doctor(x) → TrabajaEnHospital(x))
+∀x (TrabajaEnHospital(x) ↔ TienePacientes(x))
+Doctor(Juan)
+TienePacientes(Juan)

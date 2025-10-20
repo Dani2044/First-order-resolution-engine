@@ -1,0 +1,3 @@
+∀x (Planeta(x) → Esferico(x))
+Planeta(Tierra)
+¬Esferico(Tierra)

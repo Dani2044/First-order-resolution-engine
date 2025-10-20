@@ -1,0 +1,4 @@
+∀x (Perro(x) → Animal(x))
+∀x (Animal(x) ↔ SerVivo(x))
+Perro(Fido)
+SerVivo(Fido)

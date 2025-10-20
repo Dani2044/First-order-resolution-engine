@@ -1,0 +1,6 @@
+∀x (∀y (Animal(y) ∧ Ama(x,y)) → ∃z Ama(z,x))
+∀x (∀y (Animal(y) ∧ Mata(x,y)) → ∀z ¬Ama(z,x))
+∀y (Animal(y) → Ama(Jack,y))
+Gato(Tuna) ∧ (Mata(Jack,Tuna) ∨ Mata(Curiosidad,Tuna))
+∀g (Gato(g) → Animal(g))
+Mata(Curiosidad,Tuna)

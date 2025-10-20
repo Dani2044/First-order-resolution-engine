@@ -1,0 +1,3 @@
+∀x (Humano(x) ↔ Mortal(x))
+Humano(Socrates)
+Mortal(Socrates)

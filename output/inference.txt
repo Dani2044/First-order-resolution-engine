@@ -1,0 +1,16 @@
+INFERENCIA POR RESOLUCIÓN
+==================================================
+
+Consulta: ¬Esferico(Tierra)
+Negada: Esferico(Tierra)
+
+Proceso de inferencia (pasos útiles):
+--------------------------------------------------
+Consulta negada añadida: Esferico(Tierra)
+No se pueden generar más resolventes. Fin del proceso.
+
+Resultado final: NO SE PUDO PROBAR
+
+============================================================
+RESULTADO FINAL: FALSO - no se pudo deducir la afirmación final
+============================================================

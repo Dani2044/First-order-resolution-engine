@@ -1,0 +1,3 @@
+∀x∀y (Amigo(x,y) ↔ Amigo(y,x))
+Amigo(Ana,Carlos)
+Amigo(Carlos,Ana)
