@@ -115,10 +115,10 @@ Resultado final: VERDADERO (contradicción encontrada)
 ```text
 ∀x (Planeta(x) → Esferico(x))
 Planeta(Tierra)
-Esferico(Tierra)
+¬Esferico(Tierra)
 ```
 
-The system proves the conclusion **Esferico(Tierra)** from the premises.
+The system proves **FALSE** the conclusion **¬Esferico(Tierra)** from the premises.
 
 ---
 
@@ -132,5 +132,3 @@ As part of an academic AI reasoning project (FOL and Resolution Logic).
 ## 🪐 License
 
 MIT License © 2025 Daniel Castro
-
-```
